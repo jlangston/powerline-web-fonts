@@ -71,3 +71,10 @@
     src: local("Ubuntu Mono derivative Powerline"),
          url(fonts/UbuntuMono.woff2) format("woff2");
 }
+
+
+@font-face {
+    font-family: "Droid Sans Mono Nerd";
+    src: local("Droid Sans Mono Nerd derivative Powerline"),
+         url(fonts/droid_sans_mono_for_powerline_nerd_font_complete-webfont.woff2) format("woff2");
+}
